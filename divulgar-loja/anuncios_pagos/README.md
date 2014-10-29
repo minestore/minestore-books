@@ -1,10 +1,11 @@
 ![](http://minestore-blog.s3.amazonaws.com/wp-content/uploads/2014/06/images_posts-24-1000x600.png)
-
+<br>
+<br>
 # Anúncios pagos
-
-
+<br>
 ## Google AdWords
-
+<br>
+<br>
 O Google Adwords é o sistema de propaganda online do Google: por meio dele, você coloca anúncios na rede de busca (aquelas páginas do Google) ou na rede de display (as imagens que aparecem nos sites parceiros, como o Youtube). É a ferramenta de anúncios online que mais tem chance de dar um retorno legal para a sua loja virtual, além de ser bem 'refinável': você pode acompanhar o resultado dos seus anúncios e mudar tudo até que o rendimento seja o que você espera.
 
 Como funciona? Se você tem um blog ou uma loja virtual de discos de vinil, por exemplo, é bem provável que quando alguém buscar "discos de vinil" no Google sua loja apareça em alguma das páginas da busca. Certo? Certo. E você já percebeu, também, que quando faz uma busca normalmente clica em um dos cinco primeiros resultados – e dificilmente vai até a segunda ou terceira página? Aí está o *pulo do gato* do Google: você paga para ter sua página da web aparecendo em melhores posições e, então, recebe mais acessos (podendo aumentar suas vendas).
@@ -19,10 +20,12 @@ A estrutura de um link patrocinado é a *seguintchi* (olho na tela):
 **URL de destino**: essa é a página para onde o seu anúncio vai direcionar quem der um clique, e não aparece no anúncio. No entanto, é imprescindível que ela contenha exatamente o que está descrito no anúncio (ninguém tem paciência para clicar no anúncio de *Discos de rock usados* e cair na homepage de uma loja de vinis, tendo que procurar a categoria *rock*).
 
 Feito o anúncio, você define o valor que está disposto a pagar por dia e por clique. No entanto, é preciso estar atento a algumas palavras-chave que custam mais que outras: na hora da busca, o Google faz o possível para definir quais resultados são mais relevantes à busca feita, para que eles apareçam mais ao topo da página. Só que, como às vezes mais de um resultado é relevante àquela pesquisa, rola um tipo de 'leilão' e, no fim, em alguns casos você acaba tendo que pagar mais para aparecer melhor. Como você é cobrado por cliques, também é possível estipular um orçamento diário para não gastar seu *budget* todo gerando *buzz* em muito pouco tempo (e não torrar todo o dinheiro da sua promoção de natal no dia 02 de dezembro, por exemplo).
-
-
+<br>
+<br>
+<br>
 ## Facebook Ads
-
+<br>
+<br>
 Já falamos da divulgação da sua loja virtual no Facebook por aqui, chamando atenção para o fato de que o alcance orgânico das fanpages tem diminuído sensivelmente. O que isso significa? Bem, você pode alcançar milhares de pessoas com sua página sem pagar por anúncios, com certeza. Mas isso requer mais trabalho e brilhantismo do social media – e, no fim, pode ser que os anúncios pagos te ajudem a chegar no seu público mais rapidamente (todo esse rodeio para dizer que: *é uma escolha sua, padawan*. vai na fé!).
 
 Para anunciar no Facebook, você só precisa ter uma fanpage válida. A partir do Insights, você consegue acesso a dados bem importantes sobre o seu público, quem mais interage na sua página com likes, shares e comentários e, cruzando essas informações com todas aquelas informações que você tem sobre seu público-alvo, você pode segmentar a audiência para a qual seu anúncio será exibido. É possível promover apenas a sua fanpage (e, aí, há controvérsias quanto à qualidade dos likes que a página recebe, porque tem quem acuse o Facebook de só render curtidas de perfis lá de Bangladesh); promover um post específico (legal porque você consegue saber quais posts fazem mais sucesso no alcance orgânico e aí, dar um *boom* neles); ou ainda fazer uma promoção ou divulgar algum evento especial.

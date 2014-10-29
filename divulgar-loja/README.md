@@ -1,8 +1,9 @@
 *"... eu abri uma loja virtual e vou gritaaaaar pra todo mundo ouvir"*
-
+<br>
+<br>
 ![](http://minestore-blog.s3.amazonaws.com/wp-content/uploads/2014/08/post-megaphone.png)
-
-
+<br>
+<br>
 # Como divulgar sua loja virtual
 <br>
 <br>

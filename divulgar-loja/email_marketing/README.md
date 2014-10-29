@@ -1,7 +1,9 @@
 ![](http://minestore-blog.s3.amazonaws.com/wp-content/uploads/2014/09/post-mag.png)
-
+<br>
+<br>
 # Email marketing
-
+<br>
+<br>
 Ok, a gente acha que sabe o que você está pensando: *email, em 2014? JURA que vocês vão aconselhar a gente a mandar spam para as pessoas?*. Alto lá, pequeno gafanhoto. Deixe-nos explicar.
 
 Primeiro: houve, sim, um tempo em que receber um email de propaganda de alguma empresa era motivo suficiente pra colocá-la numa lista negra e nunca mais comprar produto ou serviço nenhum daquele lugar. E isso porque nossas caixas de email (tipo do bol e do ibest) eram *floodados* diariamente com mensagens nem sempre convenientes (nada é conveniente se *flooda* sua caixa de entrada todo santo dia). Só que agora, os tempos são outros. Além de as mídias sociais limitarem o alcance orgânico do material que você compartilha, é tanta coisa rolando na timeline que nem sempre seus clientes chegam a ver o que você tem para mostrar.

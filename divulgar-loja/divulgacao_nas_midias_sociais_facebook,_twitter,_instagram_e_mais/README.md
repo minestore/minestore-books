@@ -1,5 +1,6 @@
 ![](http://minestore-blog.s3.amazonaws.com/wp-content/uploads/2014/08/post-social.png)
-
+<br>
+<br>
 # Divulgação nas mídias sociais: Facebook, Twitter, Instagram (e mais)
 <br>
 <br>

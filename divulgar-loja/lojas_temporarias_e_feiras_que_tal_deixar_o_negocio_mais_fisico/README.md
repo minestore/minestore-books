@@ -1,7 +1,9 @@
 ![](http://minestore-blog.s3.amazonaws.com/wp-content/uploads/2014/06/images_posts-08-1000x600.png)
-
+<br>
+<br>
 #Lojas temporárias e feiras: que tal deixar o negócio mais físico?
-
+<br>
+<br>
 Uma das partes mais legais de ter o seu próprio negócio é conhecer outras pessoas que também estão nessa e poder trocar informações, dicas e ideias para vender mais. Nessas, podem surgir parcerias bem *frutíferas* (e quando todo mundo cresce junto, o processo todo é bem mais divertido).
 
 Se você já tinha uma loja física e depois expandiu seu negócio para o mundo virtual, sabe bem do que estamos falando. Mas, se seu primeiro negócio é uma loja virtual, não hesite em sonhar com voos mais altos. Levar sua loja virtual para lugares mais físicos não é um bicho de sete cabeças, e só tem a contribuir para as suas vendas, tanto no período de loja física (que pode ser temporário) quanto depois, quando seus clientes continuarem comprando online.
