@@ -1,3 +1,5 @@
+![](http://minestore-blog.s3.amazonaws.com/wp-content/uploads/2014/06/images_posts-24-1000x600.png)
+
 # Anúncios pagos
 
 

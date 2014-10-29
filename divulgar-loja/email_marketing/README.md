@@ -1,3 +1,5 @@
+![](http://minestore-blog.s3.amazonaws.com/wp-content/uploads/2014/09/post-mag.png)
+
 # Email marketing
 
 Ok, a gente acha que sabe o que você está pensando: *email, em 2014? JURA que vocês vão aconselhar a gente a mandar spam para as pessoas?*. Alto lá, pequeno gafanhoto. Deixe-nos explicar.

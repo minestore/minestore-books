@@ -1,3 +1,5 @@
+![](http://minestore-blog.s3.amazonaws.com/wp-content/uploads/2014/08/post-books.png)
+
 # O que é e como funciona o marketing de conteúdo
 
 Há até pouco tempo atrás, a divulgação do comércio tradicional era feita apenas pelas mídias convencionais (TV, rádio, jornal) num sistema conhecido como *modelo de compra de atenção*. Nesse modelo, você paga pelo tempo usado para divulgar seu produto e alguns segundos costumam ser muito mais caros e prestigiados do que outros (e, por isso, só as marcas *super top's das baladas* conseguem anunciar no intervalo do Super Bowl, por exemplo).

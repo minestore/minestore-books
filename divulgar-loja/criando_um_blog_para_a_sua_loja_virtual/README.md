@@ -1,3 +1,5 @@
+![](http://minestore-blog.s3.amazonaws.com/wp-content/uploads/2014/06/images_posts-70-1000x600.png)
+
 #Criando um blog para a sua loja virtual
 
 O blog é uma das ferramentas mais importantes de marketing digital para a sua loja porque é nele que você começa a se posicionar como especialista sobre os produtos que vende. Além disso, o blog permite uma participação muito mais abrangente da sua loja nos mecanismos de busca – alguns desses cliques custam caro e, por isso, o blog te faz economizar uma grana quando direciona movimento para a sua loja!

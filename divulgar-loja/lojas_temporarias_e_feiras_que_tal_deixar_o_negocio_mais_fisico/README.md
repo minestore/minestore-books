@@ -1,3 +1,5 @@
+![](http://minestore-blog.s3.amazonaws.com/wp-content/uploads/2014/06/images_posts-08-1000x600.png)
+
 #Lojas temporárias e feiras: que tal deixar o negócio mais físico?
 
 Uma das partes mais legais de ter o seu próprio negócio é conhecer outras pessoas que também estão nessa e poder trocar informações, dicas e ideias para vender mais. Nessas, podem surgir parcerias bem *frutíferas* (e quando todo mundo cresce junto, o processo todo é bem mais divertido).
